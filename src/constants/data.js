@@ -60,22 +60,22 @@ const awards = [
   {
     imgUrl: images.award02,
     title: "Bib Gourmond",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    subtitle: "The freshest sushi adn seafood in San Diego",
   },
   {
     imgUrl: images.award01,
     title: "Rising Star",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    subtitle: "Best Japanese cuisine, natural flavors",
   },
   {
     imgUrl: images.award05,
     title: "AA Hospitality",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    subtitle: "Best atmosphere and the hospitality",
   },
   {
     imgUrl: images.award03,
     title: "Outstanding Chef",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    subtitle: "San Diego the top Essential Sushi Bars",
   },
 ];
 
