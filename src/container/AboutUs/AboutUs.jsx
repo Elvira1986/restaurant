@@ -17,9 +17,8 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra
-          adipiscing ultrices vulputate posuere tristique. In sed odio nec
-          aliquet eu proin mauris et.
+          Serving up the best sushi in San Diego using the freshest ingredients
+          we can find, all with a side of old-school hip-hop and ice-cold beer.
         </p>
         <button type="button" className="custom__button">
           Know More
@@ -34,9 +33,9 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat.
-          Risus placerat morbi volutpat habitasse interdum mi aliquam In sed
-          odio nec aliquet.
+          We have been providing a modern approach to the rich traditions of
+          Japanese cooking for over 10 years. We pride ourselves in our charming
+          and boutique setting.
         </p>
         <button type="button" className="custom__button">
           Know More
