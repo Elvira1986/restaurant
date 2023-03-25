@@ -2,57 +2,57 @@ import images from "./images";
 
 const wines = [
   {
-    title: "Chapel Hill Shiraz",
-    price: "$56",
-    tags: "AU | Bottle",
+    title: "Domaines Gueguen",
+    price: "$72",
+    tags: "Chablis | France | 2020 | Bottle",
   },
   {
-    title: "Catena Malbee",
-    price: "$59",
-    tags: "AU | Bottle",
+    title: "Vionta",
+    price: "$48",
+    tags: "Albariño | Spain | 2021 | Bottle",
   },
   {
-    title: "La Vieillw Rose",
-    price: "$44",
-    tags: "FR | 750 ml",
+    title: "Weather",
+    price: "$55",
+    tags: "Pinot Noir | Sonoma, CA | 2020 | Bottle",
   },
   {
-    title: "Stone Delicious IPA ",
-    price: "$11",
-    tags: "CA | 16 oz",
+    title: "Harada ",
+    price: "$62",
+    tags: "Junmai 80 | Yamaguchi | Sake | Bottle",
   },
   {
-    title: "Coronado Lager",
+    title: "Kurosawa ",
     price: "$10",
-    tags: "CA | 16 oz",
+    tags: "Black Creek | Nagano | Sake | Bottle",
   },
 ];
 
 const cocktails = [
   {
-    title: "Aperol Sprtiz",
-    price: "$20",
-    tags: "Aperol | Villa Marchesi prosecco | soda | 30 ml",
+    title: "Azuki Mule",
+    price: "$15",
+    tags: "Haku Vodka | Pickled Ginger | Cucumber | Lime | Bitters",
   },
   {
-    title: "Dark 'N' Stormy",
+    title: "Mami Umami",
     price: "$16",
-    tags: "Dark rum | Ginger beer | Slice of lime",
+    tags: "La Luna Mezcal | Grapefruit | Ginger | Lime | Shio Koji",
   },
   {
-    title: "Daiquiri",
-    price: "$10",
-    tags: "Rum | Citrus juice | Sugar",
+    title: "Yuzu Collins",
+    price: "$15",
+    tags: "Roku Gin | Paru Blue Chamomile Tea | Yuzu | Lime | Soda",
   },
   {
-    title: "Old Fashioned",
-    price: "$31",
-    tags: "Bourbon | Brown sugar | Angostura Bitters",
+    title: "Saru Old Fashioned",
+    price: "$18",
+    tags: "Toki Whisky | Infinity Banana | Vanilla",
   },
   {
-    title: "Negroni",
-    price: "$26",
-    tags: "Gin | Sweet Vermouth | Campari | Orange garnish",
+    title: "Emerald Negroni",
+    price: "$17",
+    tags: "London Dry Gin | Luxardo Bitter | Midori | Shiso ",
   },
 ];
 
